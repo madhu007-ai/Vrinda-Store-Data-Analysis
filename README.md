@@ -41,3 +41,13 @@ This project demonstrates how Excel can transform raw retail sales data into mea
 **Author:** Madhu Shrestha  
 **Focus:** Data Analytics | Microsoft Excel | SQL | Power BI
 
+## Credits and References
+
+This project was developed as a hands-on learning exercise using Microsoft Excel, with guidance and inspiration from a YouTube tutorial.
+
+I created and explored the workbook to practice data cleaning, sales analysis, data visualization, and reporting.
+
+**Tutorial reference:** https://youtu.be/gTK5rNhWJyA?si=4JWpELtS7TuFtCgQ
+
+This project is intended to demonstrate my learning and practical Excel skills.
+
